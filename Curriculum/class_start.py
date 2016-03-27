@@ -10,7 +10,7 @@ project_list = [
 "calculator.py",
 
 "tuples_lists.py",
-"dictionaries_functions",
+"dictionaries_functions.py",
 "loops.py",
 "right_triangle.py",
 
